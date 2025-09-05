@@ -1,4 +1,4 @@
-# RiskGuard Core v5.2 — Daily-Stable, Spike-Proof Portfolio Risk
+# RiskGuard Core 
 
 RiskGuard is a Dash/Plotly app that turns **daily market data** into a clean portfolio dashboard: line/candle charts, rolling volatility, correlation, **VaR/ES**, stress tests, buy-&-hold backtests, and simple forecasts — all built on a spike-resistant **daily adjusted-close** series stored in SQLite (with `yfinance` as source and a simulated fallback).
 
